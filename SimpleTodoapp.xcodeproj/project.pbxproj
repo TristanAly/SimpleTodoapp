@@ -74,8 +74,8 @@
 			isa = PBXGroup;
 			children = (
 				6225D2CA28468B82005C8205 /* SimpleTodoappApp.swift */,
-				622284A9284E779700002C64 /* Managers */,
 				6225D2CC28468B82005C8205 /* ContentView.swift */,
+				622284A9284E779700002C64 /* Managers */,
 				622284AE284E904500002C64 /* View */,
 				6225D2D828468B9C005C8205 /* TodoModel.xcdatamodeld */,
 				6225D2CE28468B83005C8205 /* Assets.xcassets */,
